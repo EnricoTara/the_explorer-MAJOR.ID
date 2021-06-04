@@ -9,5 +9,5 @@ MAJOR.ID is an application devoted to helping high school / vocational high scho
 
 ![major 3](https://user-images.githubusercontent.com/26398403/120753890-110e7c80-c536-11eb-8dea-cf548626060e.png)
 
-# Backend service
+
 
